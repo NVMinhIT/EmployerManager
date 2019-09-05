@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EmployerManager</string>
+    <string name="tennhanvien">Name Employee: </string>
+    <string name="luongnhanvien">Salary: </string>
+    <string name="tuoinhanvien">Age: </string>
+    <string name="anhnhanvien">Image Profile: </string>
+    <string name="manhanvien">Id: </string>
+    <string name="timkiem">Tìm kiếm</string>
+    <string name="nhapten">Nhập tên</string>
+    <string name="nhapluong">Nhập lương</string>
+    <string name="nhaptuoi">Nhập tuổi</string>
+    <string name="luu">Save</string>
+    <string name="huy">Cancel</string>
+</resources>
